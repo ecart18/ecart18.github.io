@@ -1,8 +1,28 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Real Time Visual Tracking using Spatial-Aware Temporal Aggregation Network
+  link: github.com/ecart18
+  github: ecart18/SATA
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    This is intern project for single object tracking.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Developed a feature-enhanced algorithm to deal with pervasive target occlusion, motion blur and fast motion in visual object tracking.
+    
+    This proposed correlation filter based tracking method aggregates historical features in a spatial-aligned and scale-aware paradigm (feature pyramid network, CNN).
+    
+    Evaluated this algorithm on benchmark datasets such as OTB and VOT, and achieved leading performance in real-time speed.
+
+
+- layout: top-middle
+  name: Optimized Multiple Hypothesis Tracking
+  link: github.com/ecart18
+  github: ecart18/SATA
+  quote: >
+    This is intern project for Multiple object tracking.
+  description: | # this will include new lines to allow paragraphs
+    Established a sequence encoder based on LSTM to model motion and appearance changing for multiple object tracking.
+
+    Implemented multiple hypotheses tracking (MHT) strategies to address the challenging object occluded or missing.
+
+    Proposed a novel approach to learn global sequence score of each track hypothesis.
+
+    This approach addresses exposure bias and label bias caused by the inconsistent between training and inference in tracking.    

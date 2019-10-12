@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ecart and I'm a Ph.D candidate of Department of Automation, Tsinghua University, as well as an researcher in the field of deep learning, machine learning and computer vision. I also have experience in statistic analysis, and have the knowledge of bioinformatics and data mining. I have worked as an algorithm intern at Horizon Robotics for 16 months, and have gained teamwork ability and professional skills in computer vision, especially in object tracking/segmentation/detection and person ReID.
 
-  I am most skilled in: <mark>Deep learning</mark>, <mark>Machine learning</mark>, and <mark>Eating spicy food</mark>
+  I am most skilled in: <mark>Deep Learning</mark>, <mark>Machine Learning</mark>, and <mark>Eating Spicy Food</mark>
 
 # Projects Section
 # projects_title: Projects

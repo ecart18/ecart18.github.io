@@ -1,20 +1,20 @@
 - layout: top-middle
   name: Real Time Visual Tracking using Spatial-Aware Temporal Aggregation Network
-  link: github.com/ecart18
+  link: arxiv.org/abs/1908.00692
   github: ecart18/SATA
   quote: >
     This is intern project for single object tracking.
   description: | # this will include new lines to allow paragraphs
     Developed a feature-enhanced algorithm to deal with pervasive target occlusion, motion blur and fast motion in visual object tracking.
     
-    This proposed correlation filter based tracking method aggregates historical features in a spatial-aligned and scale-aware paradigm (feature pyramid network, CNN).
+    This proposed correlation filter based tracking method aggregates historical features in a spatial-aligned and scale-aware paradigm.
     
     Evaluated this algorithm on benchmark datasets such as OTB and VOT, and achieved leading performance in real-time speed.
 
 
 - layout: top-middle
   name: Optimized Multiple Hypothesis Tracking
-  link: github.com/ecart18
+  link: arxiv.org/abs/1908.00692
   github: ecart18/SATA
   quote: >
     This is intern project for Multiple object tracking.

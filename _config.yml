@@ -4,7 +4,7 @@ repository: ecart18/ecart18.github.io
 
 # Personal info
 name: Ecart
-title: Senior Network System Administrator
+title: Tsinghua University - Ph.D Candidate
 email: ecart.hut@gmail.com
 website: www.github.com/ecart18/ecart18.github.io
 
@@ -22,11 +22,11 @@ linkedin_username: tao-hu-0b7749169
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ecart and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Ecart and I'm a Ph.D candidate of Department of Automation, Tsinghua University, as well as an researcher in the field of deep learning, machine learning and computer vision. I also have experience in statistic analysis, and have the knowledge of bioinformatics and data mining. I have worked as an algorithm intern at Horizon Robotics for 16 months, and have gained teamwork ability and professional skills in computer vision, especially in object tracking/segmentation/detection and person ReID.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Deep learning</mark>, <mark>Machine learning</mark>, and <mark>Eating spicy food</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in machine learning and computer vison, some of my other interests and hobbies are:
+   - One Piece
+   - Cyber Cats Petting
+   - LeBron James's Fan
 
 # Footer
 footer_show_references: true

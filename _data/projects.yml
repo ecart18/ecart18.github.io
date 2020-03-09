@@ -1,9 +1,23 @@
+
+- layout: top-middle
+  name: Multi-object Tracking via End-to-end Tracklet Searching and Ranking
+  link: arxiv.org/abs/2003.02795
+  github: ecart18/TSR-tracker
+  quote: >
+    This is a intern project for Multiple object tracking.
+  description: | # this will include new lines to allow paragraphs
+    Proposed a tracklet scoring model based on margin loss and rank loss, which provide a clear goal for quantifying tracklet quality. We, for the first time, demonstrate  that  contrastive  learning  can  improve  the  tracklet  consistency  in data association.
+    
+    Implemented  a  recurrent  search-based  optimization  framework  that  remarkably exposes wrong associations to training. The training process follows a  “searching-learning-ranking-pruning”  pipeline.  It  tackles  the  problem  of  exposure bias existing in sequence modeling that is neglected by previous MOT works.
+   
+    Implemented multiple hypotheses tracking (MHT) strategies to address the challenging problems of object occluded or missing. Validated on three benchmark datasets of MOT and achieved the state-of-the-art results. 
+
 - layout: top-middle
   name: Real Time Visual Tracking using Spatial-Aware Temporal Aggregation Network
   link: arxiv.org/abs/1908.00692
   github: ecart18/SATA
   quote: >
-    This is intern project for single object tracking.
+    This is a intern project for single object tracking.
   description: | # this will include new lines to allow paragraphs
     Developed a feature-enhanced algorithm to deal with pervasive target occlusion, motion blur and fast motion in visual object tracking.
     
@@ -11,16 +25,14 @@
     
     Evaluated this algorithm on benchmark datasets such as OTB and VOT, and achieved leading performance in real-time speed.
 
-
 - layout: top-middle
-  name: Multi-object Tracking via End-to-end Tracklet Searching and Ranking
-  link: https://github.com/ecart18/ecart18.github.io/_projects/TSR/index.html
-  github: ecart18/SATA
+  name: Semi-Tracker, a User-friendly Semi-automatic Software for Multiple Cell Segmentation and Tracking
+  github: ecart18/Semi-tracker
   quote: >
-    This is intern project for Multiple object tracking.
+    This is a project for multiple cell instance segmentation and tracking.
   description: | # this will include new lines to allow paragraphs
-    Proposed a tracklet scoring model based on margin loss and rank loss, which provide a clear goal for quantifying tracklet quality. We, for the first time, demonstrate  that  contrastive  learning  can  improve  the  tracklet  consistency  in data association.
-    
-    Implemented  a  recurrent  search-based  optimization  framework  that  remarkably exposes wrong associations to training. The training process follows a  “searching-learning-ranking-pruning”  pipeline.  It  tackles  the  problem  of  exposure bias existing in sequence modeling that is neglected by previous MOT works.
-   
-    Implemented multiple hypotheses tracking (MHT) strategies to address the challenging problems of object occluded or missing. Validated on three benchmark datasets of MOT and achieved the state-of-the-art results. 
+    Proposed a video multi-cell instance segmentation algorithm based on mask propagation, which effectively utilizes the motion dependency of inter-frames; 
+
+    Built motion model of Kalman filtering based on position and geometry features, which enables multi-cell tracking and mitotic detection.
+      
+    Developed a GUI software for multi-cell segmentation, tracking and fluorescin measurement based on pyQt, which also supports image annotation.

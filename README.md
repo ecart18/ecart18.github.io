@@ -1,2 +1,6 @@
 # ecart18.github.io
-This is the home page of ecart
+
+By [Tao Hu](https://ecart18.github.io/)
+
+The home page of ecart.
+

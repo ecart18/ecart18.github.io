@@ -14,7 +14,7 @@
 
 - layout: top-middle
   name: Multi-object Tracking via End-to-end Tracklet Searching and Ranking
-  link: arxiv.org/abs/2003.02795
+  link: ./_projects/TSR/index.html
   github: ecart18/SATA
   quote: >
     This is intern project for Multiple object tracking.

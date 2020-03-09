@@ -13,16 +13,14 @@
 
 
 - layout: top-middle
-  name: Optimized Multiple Hypothesis Tracking
-  link: arxiv.org/abs/1908.00692
+  name: Multi-object Tracking via End-to-end Tracklet Searching and Ranking
+  link: arxiv.org/abs/2003.02795
   github: ecart18/SATA
   quote: >
     This is intern project for Multiple object tracking.
   description: | # this will include new lines to allow paragraphs
-    Established a sequence encoder based on LSTM to model motion and appearance changing for multiple object tracking.
-
-    Implemented multiple hypotheses tracking (MHT) strategies to address the challenging object occluded or missing.
-
-    Proposed a novel approach to learn global sequence score of each track hypothesis.
-
-    This approach addresses exposure bias and label bias caused by the inconsistent between training and inference in tracking.    
+    Proposed a tracklet scoring model based on margin loss and rank loss, which provide a clear goal for quantifying tracklet quality. We, for the first time, demonstrate  that  contrastive  learning  can  improve  the  tracklet  consistency  in data association.
+    
+    Implemented  a  recurrent  search-based  optimization  framework  that  remarkably exposes wrong associations to training. The training process follows a  “searching-learning-ranking-pruning”  pipeline.  It  tackles  the  problem  of  exposure bias existing in sequence modeling that is neglected by previous MOT works.
+   
+    Implemented multiple hypotheses tracking (MHT) strategies to address the challenging problems of object occluded or missing. Validated on three benchmark datasets of MOT and achieved the state-of-the-art results. 

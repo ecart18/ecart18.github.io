@@ -3,7 +3,7 @@ repository: ecart18/ecart18.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Ecart
+name: Tao Hu
 title: Tsinghua University - Ph.D Candidate
 email: ecart.hut@gmail.com
 website: ecart18.github.io
@@ -24,7 +24,7 @@ linkedin_username: tao-hu-0b7749169
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ecart and I'm a Ph.D candidate of Department of Automation, Tsinghua University, as well as an researcher in the field of deep learning, machine learning and computer vision. I also have experience in statistic analysis, and have the knowledge of bioinformatics and data mining. I have worked as an algorithm intern at Horizon Robotics for 18 months, and have gained teamwork ability and professional skills in computer vision, especially in object tracking/segmentation/detection and person ReID.
+  Hi, my name is Tao Hu and I'm a Ph.D candidate of Department of Automation, Tsinghua University, as well as an researcher in the field of deep learning, machine learning and computer vision. I also have experience in statistic analysis, and have the knowledge of bioinformatics and data mining. I have worked as an algorithm intern at Horizon Robotics for 18 months, and have gained teamwork ability and professional skills in computer vision, especially in object tracking/segmentation/detection and person ReID.
 
   I am most skilled in: <mark>Deep Learning</mark> <mark>Machine Learning</mark> <mark>Computer vision</mark> <mark>Eating Spicy Food</mark>
 
